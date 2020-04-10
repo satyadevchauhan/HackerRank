@@ -13,7 +13,7 @@
   </tr>
   <tr>
     <td><a align="center" href="https://www.hackerrank.com/challenges/birthday-cake-candles">Birthday Cake Candles</a></td>
-    <td><a align="center" href="Birthday%20Cake%20Candles/BirthdayCakeCandles.swift">BirthdayCakeCandles.swift</a></td>
+    <td><a align="center" href="Birthday%20Cake%20Candles/BirthdayCakeCandles.playground">BirthdayCakeCandles.playground</a></td>
     <td>Easy</td>
   </tr>
   <tr>
@@ -28,7 +28,7 @@
   </tr>
   <tr>
     <td><a align="center" href="https://www.hackerrank.com/challenges/mini-max-sum">Mini-Max Sum</a></td>
-    <td><a align="center" href="Mini-Max%20Sum/MiniMaxSum.swift">MiniMaxSum.swift</a></td>
+    <td><a align="center" href="Mini-Max%20Sum/MiniMaxSum.playground">MiniMaxSum.playground</a></td>
     <td>Easy</td>
   </tr>
   <tr>
@@ -48,12 +48,12 @@
   </tr>
   <tr>
     <td><a align="center" href="https://www.hackerrank.com/challenges/staircase">Staircase</a></td>
-    <td><a align="center" href="Staircase/Staircase.swift">Staircase.swift</a></td>
+    <td><a align="center" href="Staircase/Staircase.playground">Staircase.playground</a></td>
     <td>Easy</td>
   </tr>
   <tr>
     <td><a align="center" href="https://www.hackerrank.com/challenges/time-conversion">Time Conversion</a></td>
-    <td><a align="center" href="Time%20Conversion/TimeConversion.swift">TimeConversion.swift</a></td>
+    <td><a align="center" href="Time%20Conversion/TimeConversion.playground">TimeConversion.playground</a></td>
     <td>Easy</td>
   </tr>
 </table>

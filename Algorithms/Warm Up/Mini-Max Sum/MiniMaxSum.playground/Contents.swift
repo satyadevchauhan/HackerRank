@@ -9,5 +9,5 @@ func miniMaxSum(arr: [Int]) -> Void {
 }
 
 miniMaxSum(arr: [1, 2, 3, 4, 5]) //10 14
-
+miniMaxSum(arr: [7, 69, 2, 221, 8974])   //299 9271
 

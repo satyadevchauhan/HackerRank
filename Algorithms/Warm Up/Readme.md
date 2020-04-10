@@ -18,12 +18,12 @@
   </tr>
   <tr>
     <td><a align="center" href="https://www.hackerrank.com/challenges/compare-the-triplets">Compare The Triplets</a></td>
-    <td><a align="center" href="Compare%20The%20Triplets/CompareTheTriplets.swift">CompareTheTriplets.swift</a></td>
+    <td><a align="center" href="Compare%20The%20Triplets/CompareTheTriplets.swift">CompareTheTriplets.playground</a></td>
     <td>Easy</td>
   </tr>
   <tr>
     <td><a align="center" href="https://www.hackerrank.com/challenges/diagonal-difference">Diagonal Difference</a></td>
-    <td><a align="center" href="Diagonal%20Difference/DiagonalDifference.swift">DiagonalDifference.swift</a></td>
+    <td><a align="center" href="Diagonal%20Difference/DiagonalDifference.swift">DiagonalDifference.playground</a></td>
     <td>Easy</td>
   </tr>
   <tr>
@@ -33,12 +33,12 @@
   </tr>
   <tr>
     <td><a align="center" href="https://www.hackerrank.com/challenges/plus-minus">Plus Minus</a></td>
-    <td><a align="center" href="Plus%20Minus/PlusMinus.swift">PlusMinus.swift</a></td>
+    <td><a align="center" href="Plus%20Minus/PlusMinus.swift">PlusMinus.playground</a></td>
     <td>Easy</td>
   </tr>
   <tr>
     <td><a align="center" href="https://www.hackerrank.com/challenges/simple-array-sum">Simple Array Sum</a></td>
-    <td><a align="center" href="Simple%20Array%20Sum/SimpleArraySum.swift">SimpleArraySum.swift</a></td>
+    <td><a align="center" href="Simple%20Array%20Sum/SimpleArraySum.swift">SimpleArraySum.playground</a></td>
     <td>Easy</td>
   </tr>
   <tr>

@@ -8,7 +8,7 @@
   </tr>
   <tr>
     <td><a align="center" href="https://www.hackerrank.com/challenges/lonely-integer">Lonely Integer</a></td>
-    <td><a align="center" href="Lonely%20Integer/lonelyinteger.playground">lonelyinteger.playground</a></td>
+    <td><a align="center" href="Lonely%20Integer/LonelyInteger.playground">LonelyInteger.playground</a></td>
     <td>Easy</td>
   </tr>
 </table>

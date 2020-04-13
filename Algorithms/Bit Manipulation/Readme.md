@@ -11,4 +11,9 @@
     <td><a align="center" href="Lonely%20Integer/LonelyInteger.playground">LonelyInteger.playground</a></td>
     <td>Easy</td>
   </tr>
+  <tr>
+     <td><a align="center" href="https://www.hackerrank.com/challenges/maximizing-xor">Maximizing XOR</a></td>
+     <td><a align="center" href="Maximizing%20XOR/MaximizingXOR.playground">MaximizingXOR.playground</a></td>
+     <td>Easy</td>
+   </tr>
 </table>

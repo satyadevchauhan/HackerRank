@@ -13,7 +13,7 @@
   </tr>
   <tr>
     <td><a align="center" href="https://www.hackerrank.com/challenges/birthday-cake-candles">Birthday Cake Candles</a></td>
-    <td><a align="center" href="Birthday%20Cake%20Candles/BirthdayCakeCandle.playground">BirthdayCakeCandles.playground</a></td>
+    <td><a align="center" href="Birthday%20Cake%20Candles/BirthdayCakeCandles.playground">BirthdayCakeCandles.playground</a></td>
     <td>Easy</td>
   </tr>
   <tr>

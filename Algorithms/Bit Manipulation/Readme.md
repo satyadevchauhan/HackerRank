@@ -16,4 +16,9 @@
      <td><a align="center" href="Maximizing%20XOR/MaximizingXOR.playground">MaximizingXOR.playground</a></td>
      <td>Easy</td>
    </tr>
+   <tr>
+     <td><a align="center" href="https://www.hackerrank.com/challenges/counter-game">Counter Game</a></td>
+     <td><a align="center" href="Counter%20Game/CounterGame.playground">CounterGame.playground</a></td>
+     <td>Medium</td>
+   </tr>
 </table>
